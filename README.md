@@ -1,7 +1,7 @@
 # QuantFinanceTools
+!(swissarmyknife.jpg)
 
-
-Collection of useful ppython procedures
+Collection of useful python procedures
 
 ## Installation
 
