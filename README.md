@@ -1,5 +1,5 @@
 # QuantFinanceTools
-!(./swissarmyknife.jpg)
+![img](./swissarmyknife.jpg)
 
 Collection of useful python procedures
 
